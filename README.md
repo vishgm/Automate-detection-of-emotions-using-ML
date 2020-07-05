@@ -16,19 +16,24 @@ RIO-210: Automate detection of different emotions from paragraphs and predict ov
 
 #### Contents: 
 
-1. [Libraries used](#libraries)
-2. [Models used](#viz)
-3. [Final Result](#result)
+1. [Libraries ](#libraries)
+2. [Models ](#models)
 
 <a name="libraries"></a>
 ## Libraries:
 
-Libraries used :  ```
-                  Core libraries: numpy,sklearn,pandas,matplotlib,seaborn,ppscore
+Libraries used :  
+                  ```
+                  Core libraries: numpy,sklearn,pandas,matplotlib
+                  ```
+                  <br />
+                   ```
+                  Machine Learning / NLP Libraries  : Sci-kit Learn(sk-learn), NLTK
+                  ```
+                  <br />
+                  ```
                   Deep Learning Libraries : Tensorflow, Keras
                   ```
-
-
 ## Flow:- 
 1. Data cleaning
 2. Data pre-processing
@@ -38,7 +43,7 @@ Libraries used :  ```
 6. Creating Bag-of-words(BoW) model 
 7. Final Model creation
 
-<a name="eda"></a>
+<a name="models"></a>
 ## Selection of model 
 
 Since the dataset consists of categorical data, classification algorithms were used to strengthen the predictive power of the model.
@@ -47,14 +52,17 @@ Here two models were built viz:
 
 1. **Multinomial Naive Bayes**
 2. **Random Forest Classifier**
-3. **Support Vector Machine(SVM)
+3. **Support Vector Machine(SVM)**
 4. **SGD classifier**
-5. **Logistic Regression **
+5. **Logistic Regression**
 
 To determine the best model to use for this classification problem, a comparison was done between all of the models.
 
-The final result -  **SGD classifie** performed slightly better as compared to all  the other models in terms of accuracy.
+The final result - **LSTM** model wins in the deep learning category for this task!   
 
+1) Machine Learning: **SGD classifier** performed slightly better as compared to all  the other models in terms of accuracy.
+
+2) Deep Learning:  **LSTM Architecture** provided the best results for predicting overall emotion from text
 
 
 

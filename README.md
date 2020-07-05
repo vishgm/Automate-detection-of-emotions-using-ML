@@ -56,9 +56,8 @@ Here two models were built viz:
 
 1. **Multinomial Naive Bayes**
 2. **Random Forest Classifier**
-3. **Support Vector Machine(SVM)**
-4. **SGD classifier**
-5. **Logistic Regression**
+3. **SGD classifier**
+4. **Logistic Regression**
 
 
 ## Result:

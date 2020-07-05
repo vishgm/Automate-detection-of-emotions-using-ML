@@ -3,10 +3,10 @@
 
 ## About :
 
-This project is part of an Internship 
+This project is part of an Internship (TCS iON RIO 210 ) 
 
 ## Problem Statement:
-RIO-210: Automate detection of different emotions from paragraphs and predict overall emotion Batch 01
+RIO-210: Automate detection of different emotions from paragraphs and predict overall emotion - (Batch 01)
 
 
 
@@ -74,6 +74,6 @@ Please refer the Data folder : [Data](https://github.com/RepoMan20/Automate-dete
 
 ## @Authors
 
-* **Vishak G** - (https://github.com/RepoMan20)
+* **Vishak Gopkumar** - (https://github.com/RepoMan20)
 
 

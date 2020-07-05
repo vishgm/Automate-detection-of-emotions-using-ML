@@ -1,9 +1,9 @@
-#  Automate detection of different emotions from paragraphs and predict overall emotion Batch 01
+#  Automate detection of different emotions from paragraphs and predict overall emotion 
 
 
 ## About this Repository:
 
-This project is a part of an Internship 
+This project is part of an Internship 
 
 ## Problem Statement:
 RIO-210: Automate detection of different emotions from paragraphs and predict overall emotion Batch 01
@@ -12,7 +12,7 @@ RIO-210: Automate detection of different emotions from paragraphs and predict ov
 
 ## Solution
 
-### A complete analysis is available here : [emotion-prediction-notebook](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML)
+### A complete analysis is available here : [emotion-prediction-notebook](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML/tree/master/models)
 
 #### Contents: 
 
@@ -56,18 +56,20 @@ Here two models were built viz:
 4. **SGD classifier**
 5. **Logistic Regression**
 
+
+## Result:
 To determine the best model to use for this classification problem, a comparison was done between all of the models.
 
 The final result - **LSTM** model wins in the deep learning category for this task!   
 
 1) Machine Learning: **SGD classifier** performed slightly better as compared to all  the other models in terms of accuracy.
 
-2) Deep Learning:  **LSTM Architecture** provided the best results for predicting overall emotion from text
+2) Deep Learning:  **LSTM Architecture** provided the best results for predicting overall emotion from text, even better than SGD
 
 
 
 ## Data
-Please refer the Data folder : [Data](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML)
+Please refer the Data folder : [Data](https://github.com/RepoMan20/Automate-detection-of-emotions-using-ML/tree/master/datasets/crowdflower-sentiment-analysis-in-text)
 
 
 ## @Authors

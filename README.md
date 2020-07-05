@@ -1,7 +1,7 @@
 #  Automate detection of different emotions from paragraphs and predict overall emotion 
 
 
-## About this Repository:
+## About :
 
 This project is part of an Internship 
 

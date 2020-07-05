@@ -34,6 +34,10 @@ Libraries used :
                   ```
                   Deep Learning Libraries : Tensorflow, Keras
                   ```
+## Embeddings : 
+Fasttext pre-trained (english) word vectors were also used as embeddings: https://fasttext.cc/docs/en/english-vectors.html
+
+
 ## Flow:- 
 1. Data cleaning
 2. Data pre-processing
